@@ -1,6 +1,6 @@
 package main
 
-import "game_of_life/game_of_life"
+import "dlaaren/game_of_life"
 
 func main() {
 	game := game_of_life.InitGame(&game_of_life.InitStateRandom)

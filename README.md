@@ -1,1 +1,3 @@
-# learning_go
+# Learning_Golang
+
+Просто мои заметки
